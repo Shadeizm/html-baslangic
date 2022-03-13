@@ -2,6 +2,6 @@
  ## Html Yazmak İçin Kullanacağımız Site : [Replit](https://replit.com)
  ## İletişim :
  <p align="left">
-<a href="https://instagram.com/umit.berk17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umit.berk17" height="30" width="40" /></a>
-<a href="https://discord.gg/305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Eresbos#1706" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shadexdxd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shadexdxd" height="30" width="40" /></a>
+<a href="https://discord.gg/FBUr9ZKXdG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shâde#1852" height="30" width="40" /></a>
   
